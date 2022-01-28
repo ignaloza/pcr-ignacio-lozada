@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pcr-ignacio-lozada/static/css/main.073c9b0a.css",
+    "main.js": "/pcr-ignacio-lozada/static/js/main.a215c76a.js",
+    "static/js/787.8c02a230.chunk.js": "/pcr-ignacio-lozada/static/js/787.8c02a230.chunk.js",
+    "static/media/medio.PNG": "/pcr-ignacio-lozada/static/media/medio.094ef31d5f78d396e982.PNG",
+    "index.html": "/pcr-ignacio-lozada/index.html",
+    "main.073c9b0a.css.map": "/pcr-ignacio-lozada/static/css/main.073c9b0a.css.map",
+    "main.a215c76a.js.map": "/pcr-ignacio-lozada/static/js/main.a215c76a.js.map",
+    "787.8c02a230.chunk.js.map": "/pcr-ignacio-lozada/static/js/787.8c02a230.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a215c76a.js"
+  ]
+}
